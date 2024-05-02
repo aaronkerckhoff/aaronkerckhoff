@@ -6,7 +6,5 @@
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=500 src="https://github-readme-stats.vercel.app/api?username=aaronkerckhoff&bg_color=0000&text_color=aaa&title_color=fa9667&icon_color=f6d666&show_icons=true&hide_border=true&border_radius=16&count_private=true" />
   </a>
-  <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=9gta3gxtw1q9j1wtp51yb6jzg&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
   <br><br><br>
  </div>
